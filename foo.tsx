@@ -1,10 +1,10 @@
 import React from 'react'
 
-export () => (
+export default () => (
   <>
     <Foo
       bar="bar"
       baz="baz"
     />
-  <>
+  </>
 )
